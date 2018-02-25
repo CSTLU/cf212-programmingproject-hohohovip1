@@ -194,7 +194,7 @@ public:
 		}
 		else 
 		{
-			vector<vector<int>> t;
+			vector< vector<int> > t;
 			for (int i = 2; i < size; i++)
 			{
 				t.push_back(x[i]);
